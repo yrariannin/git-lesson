@@ -1,4 +1,4 @@
-# My Git Lesson Website
+# My Git Lesson Website v2
 
 ## Todo list
 1. Create a file
