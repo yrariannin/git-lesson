@@ -1,0 +1,5 @@
+Creat my first repository (done)
+add a file to the repo (done)
+check out the git history (done)
+hands-on exercise
+pull from a remote repo 
